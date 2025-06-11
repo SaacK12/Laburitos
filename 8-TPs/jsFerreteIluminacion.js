@@ -11,7 +11,6 @@ if(isNaN(cantidad) || cantidad <= 0){
     return;
 }
 
-
 switch(cantidad){
     //Item A
     case 6: 
@@ -68,11 +67,6 @@ switch(cantidad){
                 alert("Precio con descuento: "+resultado);
                 break;
         }
-
          }
           }
-         //175
-         //
-
-
 //35 * 5*  0,4
